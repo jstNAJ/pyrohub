@@ -1,4 +1,4 @@
-local whitelisted = ("jstnaj"), ("Reset50776080"), ("3fmmeecrh3e4m3i7n7xk"), ("Valentinogamer_y"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example")
+local whitelisted = ("jstnaj"), (""), ("3fmmeecrh3e4m3i7n7xk"), ("Valentinogamer_y"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example"), ("Example")
 
 
 
@@ -479,5 +479,5 @@ checktext.Visible = false
 Notwhitelitedtext.Visible = true
 wait(2)
 whitelist:Destroy()
-game.Players.LocalPlayer:kick "Non sei whitelistato!"
+game.Players.LocalPlayer:kick "PERMA-BAN"
 end
