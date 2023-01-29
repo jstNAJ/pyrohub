@@ -6,7 +6,6 @@ local whitelisted = ("jstnaj"), (""), ("3fmmeecrh3e4m3i7n7xk"), ("Valentinogamer
 function script()
 --script if localplayer is whitelisted here
 print("Sei Whitelistato!")
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/jstNAJ/nohomoontop001204312uiw-9vsoidufbw8e9sfdbvo8wbeoivwbeoufwbeoif7g3287190731tibfu/main/1i35n1oijn5oi12oy5b21in5ion1yuhoiu12bou5g12oijnkjncdoidfsno", true))()
 
 --script if localplayer is whitelisted here
@@ -479,5 +478,5 @@ checktext.Visible = false
 Notwhitelitedtext.Visible = true
 wait(2)
 whitelist:Destroy()
-game.Players.LocalPlayer:kick "PERMA-BAN"
+game.Players.LocalPlayer:kick "PERMA-B"
 end
